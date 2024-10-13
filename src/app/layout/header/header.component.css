@@ -1,0 +1,12 @@
+header{
+   height: 100px;
+}
+
+.site-logo{
+    padding: 5px 20px;
+    background-color: var(--secondary-color);
+    border-radius:20px ;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    text-decoration: none;
+}
